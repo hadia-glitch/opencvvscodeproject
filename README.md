@@ -57,5 +57,8 @@ python gesture_shortcuts.py
 "PINCH": ("ctrl+s",), # Save
 
 ### Screenshots
-![Uploading Screenshot 2025-08-28 220945.png…]()
+<img width="1492" height="908" alt="Screenshot 2025-08-28 220945" src="https://github.com/user-attachments/assets/533b1f38-7fe9-409d-aa8e-ca6b0087ffb2" />
+
+
+
 
